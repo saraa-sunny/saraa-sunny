@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello everyone 👋
+<img width="1500" height="500" alt="header" src="https://github.com/user-attachments/assets/fcbc7abc-d51b-4a47-91a6-9278cee3df6c" />
 
-<!--
-**saraa-sunny/saraa-sunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+I’m Saraa,
+a Python developer learning data science by building projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mostly work with Python, SQL, ML, and Streamlit to turn data into insights that create real impact in healthcare and biology.
+
+When I’m not coding, you’ll find me reading, drinking chai, or rewatching Studio Ghibli movies.
+I also enjoy writing my thoughts and learnings on Medium.
+
+Fun fact: 🎬 Howl’s Moving Castle is my comfort movie.
