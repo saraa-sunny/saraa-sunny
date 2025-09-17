@@ -1,15 +1,13 @@
 ## Hello everyone 👋
-<img width="1500" height="500" alt="header" src="https://github.com/user-attachments/assets/fcbc7abc-d51b-4a47-91a6-9278cee3df6c" />
-
+<img width="1500" height="500" alt="header github" src="https://github.com/user-attachments/assets/9b75b9e0-1a10-4e78-b9ce-a907fc8679b3" />
+<br><br>
+I’m Saraa, a python developer exploring data science with a focus on healthcare and biology domains.
+<br><br>
+I love turning raw data into meaningful insights that make a real impact.<br>
+I also enjoy building simple, accessible tools with Python, SQL, Machine Learning, and Streamlit.
 <br>
 <br>
-
-I’m Saraa,
-a Python developer learning data science by building projects.
-
-I mostly work with Python, SQL, ML, and Streamlit to turn data into insights that create real impact in healthcare and biology.
-
-When I’m not coding, you’ll find me reading, drinking chai, or rewatching Studio Ghibli movies.
-I also enjoy writing my thoughts and learnings on Medium.
-
-Fun fact: 🎬 Howl’s Moving Castle is my comfort movie.
+Outside of projects, you’ll usually find me sipping chai, reading, or rewatching Studio Ghibli movies. I also share my thoughts and learning journey on Medium.
+<br>
+<br>
+Fun fact: Howl’s Moving Castle is my ultimate comfort movie.
