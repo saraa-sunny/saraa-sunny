@@ -7,7 +7,4 @@ I love turning raw data into meaningful insights that make a real impact.<br>
 I also enjoy building simple, accessible tools with Python, SQL, Machine Learning, and Streamlit.
 <br>
 <br>
-Outside of projects, you’ll usually find me sipping chai, reading, or rewatching Studio Ghibli movies. I also share my thoughts and learning journey on Medium.
-<br>
-<br>
 Fun fact: Howl’s Moving Castle is my ultimate comfort movie.
