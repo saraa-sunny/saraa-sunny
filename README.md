@@ -1,10 +1,15 @@
 ## Hello everyone 👋
-<img width="1500" height="500" alt="header github" src="https://github.com/user-attachments/assets/9b75b9e0-1a10-4e78-b9ce-a907fc8679b3" />
+<img width="1584" height="396" alt="new hader" src="https://github.com/user-attachments/assets/5394544a-8097-49a1-a9d5-ef8c9bc2ff80" />
+
 <br><br>
-I’m Saraa, a python developer exploring data science with a focus on healthcare and biology domains.
+Hi, I’m Sara.
+<br>
+I completed my MSc in Bioinformatics, began my career as a Python developer, and am now transitioning into Bioinformatics and Data Science.
 <br><br>
-I love turning raw data into meaningful insights that make a real impact.<br>
-I also enjoy building simple, accessible tools with Python, SQL, Machine Learning, and Streamlit.
+I love building models and pipelines to understand genes, cells, and the brain.<br>
 <br>
 <br>
-Fun fact: Howl’s Moving Castle is my ultimate comfort movie.
+Three things about me:
+* I love solving puzzles.
+* I think Sherlock Holmes is cool.
+* I wish I had a mind-reading superpower — that would be fun!
