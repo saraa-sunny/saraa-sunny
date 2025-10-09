@@ -13,7 +13,7 @@ I love building models and pipelines to understand genes, cells, and the brain.<
 * Improving patient outcomes 
 * Supporting better disease diagnosis
 
-I use Python and its libraries like pandas, NumPy, and scikit-learn to build ML models, and make them useful by creating interactive web apps on Streamlit.
+I use *Python* and its libraries like *pandas*, *NumPy*, and *scikit-learn* to build ML models, and make them useful by creating interactive web apps on *Streamlit*.
 
 ✨Three things about me:
 * I love solving puzzles.
