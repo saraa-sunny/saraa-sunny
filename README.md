@@ -7,7 +7,6 @@ What I am learning:
 ⭐ Tableau 
 
 
-Over the next few weeks, I’ll be adding:
-
+Over the next few weeks, I’ll be adding:  
 🎄New projects  
 🎁 Updated bio, skills & tools  
