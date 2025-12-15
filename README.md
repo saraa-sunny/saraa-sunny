@@ -1,5 +1,7 @@
 ## Hello everyone 👋
-I am Sara. I’m a self-taught data analyst with almost 3 years of experience in Python and SQL.  
+I am Sara.    
+I’m a self-taught data analyst with almost 3 years of experience in Python and SQL.  
+
 I love **analysing customer data** to understand *why people behave the way they do* and explaining it in a way that actually helps people make **smarter decisions**.
 
 Right now,I’m learning dashboarding tools like Tableau, building visualization skills, and working on hands-on Python and SQL projects.  
