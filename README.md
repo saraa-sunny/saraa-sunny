@@ -16,7 +16,7 @@ Right now,I’m learning dashboarding tools like Tableau, building visualization
 <br> 
 
 Some of the work I’ve done so far: 
-[RetailCo Profitability Analysis & Optimization](https://github.com/zaraaxdata/superstore-profit-analysis)
+[Retail Profitability & Pricing Analytics](https://github.com/zaraaxdata/superstore-profit-analysis)
 and [Digital Wellbeing User Analysis for MindEase App](https://github.com/zaraaxdata/digital-wellbeing-user-analysis)
 
 <br> 
