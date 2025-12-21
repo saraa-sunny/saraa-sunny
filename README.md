@@ -1,26 +1,30 @@
 ## Hello everyone 👋
-I am Sara.    
-I’m a self-taught data analyst with almost 3 years of experience in Python and SQL.  
+I’m Sara.
+I’m a Data Analyst with 3 years of experience working with SQL and Python.  
 
-I love **analysing customer data** to understand *why people behave the way they do* and explaining it in a way that actually helps people make **smarter decisions**.
+I love analysing customer and business data to *understand what’s really happening* and turning those insights into **actionable business decisions**.
 
-Right now,I’m learning dashboarding tools like Tableau, building visualization skills, and working on hands-on Python and SQL projects.  
+#### 🔍 What I Do
+  🔸 Analyze structured business data to uncover profitability, pricing, customer, and operational insights  
+  🔸 Write advanced SQL queries to aggregate, segment, and diagnose performance issues  
+  🔸 Use Python (Pandas, NumPy) for data cleaning, transformation, and exploratory analysis  
+  🔸 Build clear, decision-focused dashboards using Tableau and Streamlit  
+  🔸 Translate ambiguous stakeholder questions into measurable, data-backed recommendations. 
 
-<br> 
 
-### 🛠️ Skills & Tools   
-🔹 **Python**: Pandas, Matplotlib, Plotly - data cleaning, EDA , visualization  
-🔹 **SQL & PostgreSQL**: Data extraction, aggregation, joins, and basic analytics  
-🔹 **Web/Data Tools**: Streamlit, Django - for building interactive tools or dashboards)  
+#### 🛠️ Skills & Tools   
+  🔹 Programming & Databases : Python, SQL, PostgreSQL   
+  🔹 Data Analysis & Visualization : Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau, Streamlit  
+  🔹 Workflow & Tools : Git, Jupyter Notebook, VS Code, PyCharm  
 
-<br> 
 
-Some of the work I’ve done so far: 
-[Retail Profitability & Pricing Analytics](https://github.com/zaraaxdata/superstore-profit-analysis)
-and [Digital Wellbeing User Analysis for MindEase App](https://github.com/zaraaxdata/digital-wellbeing-user-analysis)
+#### 📊 Projects
+  ✦ [Retail Profitability & Pricing Analytics](https://github.com/zaraaxdata/superstore-profit-analysis)    
+  ✦ [Digital Wellbeing User Analysis for MindEase App](https://github.com/zaraaxdata/digital-wellbeing-user-analysis)   
 
-<br> 
 
-Over the next few weeks, I’ll be adding:  
-🎄New projects  
-🎁 Updated skills & tools  
+#### ⭐️ How I Work
+*I ask more whys than expected*.  
+I like working backwards from business questions, breaking vague problems into clear metrics, and validating insights. I care more about **clarity and impact** than fancy models.
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
