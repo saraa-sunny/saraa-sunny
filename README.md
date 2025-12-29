@@ -14,7 +14,7 @@ I love analysing customer and business data to *understand what’s really happe
 
 ### 🛠️ Skills & Tools   
   🔹 Programming & Databases : Python, SQL, PostgreSQL   
-  🔹 Data Analysis & Visualization : Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau, Streamlit  
+  🔹 Data Analysis & Visualization : Pandas, NumPy, Matplotlib, Seaborn, Plotly, PowerBI(PowerQuery,DAX), Streamlit  
   🔹 Workflow & Tools : Git, Jupyter Notebook, VS Code, PyCharm  
 
 
