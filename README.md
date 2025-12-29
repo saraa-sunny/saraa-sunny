@@ -20,7 +20,7 @@ I love analysing customer and business data to *understand what’s really happe
 
 ### 📊 Projects
   🔸 [Retail Profitability & Pricing Analytics](https://github.com/zaraaxdata/superstore-profit-analysis)    
-  🔸 [Digital Wellbeing User Analysis for MindEase App](https://github.com/zaraaxdata/digital-wellbeing-user-analysis)  
+  🔸 [Digital Wellbeing User Analysis EDA](https://github.com/zaraaxdata/digital-wellbeing-user-analysis)  
   🔸 [Coffee Sales PowerBI Dashboard](https://github.com/saraaxdata/coffee-sales-powerbi)
 
 ### ⭐️ How I Work
