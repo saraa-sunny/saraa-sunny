@@ -8,7 +8,7 @@ I love analysing customer and business data to *understand what’s really happe
   🔸 Analyze structured business data to uncover profitability, pricing, customer, and operational insights  
   🔸 Write advanced SQL queries to aggregate, segment, and diagnose performance issues  
   🔸 Use Python (Pandas, NumPy) for data cleaning, transformation, and exploratory analysis  
-  🔸 Build clear, decision-focused dashboards using Tableau and Streamlit  
+  🔸 Build clear, decision-focused dashboards using PowerBI and Streamlit  
   🔸 Translate ambiguous stakeholder questions into measurable, data-backed recommendations. 
 
 
