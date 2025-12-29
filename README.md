@@ -1,5 +1,5 @@
 ## Hello everyone 👋
-I’m Sara.
+I’m Cinta.
 I’m a Data Analyst with 3 years of experience working with SQL and Python.  
 
 I love analysing customer and business data to *understand what’s really happening* and turning those insights into **actionable business decisions**.
